@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rubik-Light
+font link: https://fonts.google.com/specimen/Rubik
+font author: Hubert and Fischer
+font author site: http://hubertfischer.com/
+
+
+icon designer: Fx Pedron
+icon designer link: /fx.pedron
+        
+{"bg":"transparent","icon-gradient-0":"#EA1F59","icon-gradient-1":"#FA9169","font":"#000000","slogan":"#141414"}
+      
